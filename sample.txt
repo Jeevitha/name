@@ -1,0 +1,5 @@
+1) The project you're working with --> Prev/Next api (module)
+2) The command you used to clone the repo --> git clone http://www.kernel.org/pub/scm/git.git extracted from URL said before.
+3) The path to the repository --> I do not know.. is it done automatically... doesn't it?
+4) The path to where you are when you issue the Git command that's returning the message above --> Any
+5) The command you're issuing --> git branch
